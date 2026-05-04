@@ -13,7 +13,10 @@ A B.Tech student passionate about web development and technology.<br><br>I have 
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=saurabh7489&show_icons=true&theme=tokyonight&cache_seconds=1800
 )
 
-![Streak](https://streak-stats.demolab.com?user=saurabh7489&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saurabh7489&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saurabh7489&layout=compact&theme=tokyonight&cache_seconds=1800
 )
