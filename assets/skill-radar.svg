@@ -1,0 +1,348 @@
+<svg width="1000" height="500" viewBox="0 0 1000 500"
+xmlns="http://www.w3.org/2000/svg">
+
+<rect width="1000" height="500" fill="#0d1117"/>
+
+<style>
+.title {
+  fill: #ffffff;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.label {
+  fill: #ffffff;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+
+.grid {
+  fill: none;
+  stroke: #30363d;
+  stroke-width: 1;
+}
+
+.axis {
+  stroke: #30363d;
+  stroke-width: 1;
+}
+
+.radar {
+  fill: #238636;
+  fill-opacity: 0.35;
+  stroke: #39d353;
+  stroke-width: 3;
+}
+
+.point {
+  fill: #39d353;
+}
+</style>
+
+
+<!-- LEFT RADAR -->
+
+<text x="250" y="35"
+text-anchor="middle"
+class="title">
+Skill Radar
+</text>
+
+<!-- Outer -->
+<polygon
+class="grid"
+points="
+250,70
+414,165
+414,355
+250,450
+86,355
+86,165
+"/>
+
+<!-- Middle -->
+<polygon
+class="grid"
+points="
+250,108
+381,184
+381,336
+250,412
+119,336
+119,184
+"/>
+
+<!-- Inner -->
+<polygon
+class="grid"
+points="
+250,146
+348,203
+348,317
+250,374
+152,317
+152,203
+"/>
+
+
+<!-- Axis -->
+
+<line class="axis"
+x1="250" y1="260"
+x2="250" y2="70"/>
+
+<line class="axis"
+x1="250" y1="260"
+x2="414" y2="165"/>
+
+<line class="axis"
+x1="250" y1="260"
+x2="414" y2="355"/>
+
+<line class="axis"
+x1="250" y1="260"
+x2="250" y2="450"/>
+
+<line class="axis"
+x1="250" y1="260"
+x2="86" y2="355"/>
+
+<line class="axis"
+x1="250" y1="260"
+x2="86" y2="165"/>
+
+
+<!-- SKILL AREA -->
+
+<polygon
+class="radar"
+points="
+250,108
+357,198
+348,317
+250,374
+127,331
+143,198
+"/>
+
+
+<!-- Points -->
+
+<circle class="point"
+cx="250" cy="108" r="5"/>
+
+<circle class="point"
+cx="357" cy="198" r="5"/>
+
+<circle class="point"
+cx="348" cy="317" r="5"/>
+
+<circle class="point"
+cx="250" cy="374" r="5"/>
+
+<circle class="point"
+cx="127" cy="331" r="5"/>
+
+<circle class="point"
+cx="143" cy="198" r="5"/>
+
+
+<!-- Labels -->
+
+<text x="250" y="55"
+text-anchor="middle"
+class="label">
+JavaScript
+</text>
+
+<text x="430" y="160"
+class="label">
+React
+</text>
+
+<text x="430" y="360"
+class="label">
+Node.js
+</text>
+
+<text x="250" y="480"
+text-anchor="middle"
+class="label">
+Python
+</text>
+
+<text x="55" y="360"
+text-anchor="end"
+class="label">
+Java
+</text>
+
+<text x="55" y="160"
+text-anchor="end"
+class="label">
+DSA
+</text>
+
+
+<!-- DIVIDER -->
+
+<line
+x1="500"
+y1="0"
+x2="500"
+y2="500"
+stroke="#30363d"
+stroke-width="1"/>
+
+
+<!-- RIGHT RADAR -->
+
+<text x="750" y="35"
+text-anchor="middle"
+class="title">
+Tech Stack
+</text>
+
+
+<!-- Outer -->
+
+<polygon
+class="grid"
+points="
+750,70
+914,165
+914,355
+750,450
+586,355
+586,165
+"/>
+
+
+<!-- Middle -->
+
+<polygon
+class="grid"
+points="
+750,108
+881,184
+881,336
+750,412
+619,336
+619,184
+"/>
+
+
+<!-- Inner -->
+
+<polygon
+class="grid"
+points="
+750,146
+848,203
+848,317
+750,374
+652,317
+652,203
+"/>
+
+
+<!-- Axis -->
+
+<line class="axis"
+x1="750" y1="260"
+x2="750" y2="70"/>
+
+<line class="axis"
+x1="750" y1="260"
+x2="914" y2="165"/>
+
+<line class="axis"
+x1="750" y1="260"
+x2="914" y2="355"/>
+
+<line class="axis"
+x1="750" y1="260"
+x2="750" y2="450"/>
+
+<line class="axis"
+x1="750" y1="260"
+x2="586" y2="355"/>
+
+<line class="axis"
+x1="750" y1="260"
+x2="586" y2="165"/>
+
+
+<!-- TECH AREA -->
+
+<polygon
+class="radar"
+points="
+750,108
+866,192
+850,318
+750,393
+635,327
+652,203
+"/>
+
+
+<!-- Points -->
+
+<circle class="point"
+cx="750" cy="108" r="5"/>
+
+<circle class="point"
+cx="866" cy="192" r="5"/>
+
+<circle class="point"
+cx="850" cy="318" r="5"/>
+
+<circle class="point"
+cx="750" cy="393" r="5"/>
+
+<circle class="point"
+cx="635" cy="327" r="5"/>
+
+<circle class="point"
+cx="652" cy="203" r="5"/>
+
+
+<!-- Labels -->
+
+<text x="750" y="55"
+text-anchor="middle"
+class="label">
+HTML/CSS
+</text>
+
+<text x="930" y="160"
+class="label">
+Python
+</text>
+
+<text x="930" y="360"
+class="label">
+JavaScript
+</text>
+
+<text x="750" y="480"
+text-anchor="middle"
+class="label">
+Java
+</text>
+
+<text x="570" y="360"
+text-anchor="end"
+class="label">
+C++
+</text>
+
+<text x="570" y="160"
+text-anchor="end"
+class="label">
+Git
+</text>
+
+</svg>
