@@ -14,7 +14,6 @@ permissions:
   contents: write
 
 jobs:
-
   update-radar:
 
     runs-on: ubuntu-latest
@@ -31,7 +30,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests
+          python -m pip install requests
 
       - name: Generate radar
         env:
@@ -42,7 +41,6 @@ jobs:
 
       - name: Commit radar
         run: |
-
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
