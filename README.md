@@ -1,5 +1,24 @@
 # Hi, I’m Sourabh Pandey👋
-A B.Tech student passionate about web development and technology.<br><br>I have hands-on experience with HTML, CSS, and JavaScript, and I enjoy building responsive and user-friendly web interfaces. I have worked on small projects like landing pages and basic web apps, which helped me understand front-end development concepts.<br><br>I’m highly interested in solving real-world problems using technology. I’m eager to collaborate with others, learn new technologies, and push my limits.<br><br>Currently, I’m also exploring backend development to become a full-stack developer in the future.<br><br>Looking forward to building something impactful!
+# About Me
+
+Hi, I'm **Saurabh Pandey**, a 5th-semester Computer Science Engineering student who is curious about how technology is built and what happens behind the scenes.
+
+What usually catches my attention is **seeing something that someone has built**. Instead of only using it, I start wondering: *How does this work? How did someone code this? How did they make it this polished? Could I build something similar myself?*
+
+That curiosity is what keeps me learning. I actually enjoy going deep into difficult or lengthy topics—even when they take time to understand. The feeling of finally understanding something that once seemed complicated is what keeps me going.
+
+I currently work with **HTML, CSS, JavaScript, Python, C++, and Java**, and I'm learning **React**. I enjoy building websites, while also spending time solving DSA problems and exploring different areas of technology.
+
+I've built projects including an **AI Disaster Response project for the Meta × Hugging Face Hackathon**, a **Nokia-style Snake Game using JavaScript**, and several frontend projects such as a **login page**. Through these projects, I've learned more than just coding—I’ve learned about prototyping, planning a project, deployment platforms such as **Vercel and Hugging Face**, and figuring things out when I don't know the answer.
+
+I'm currently exploring **open source and hackathons** to understand where I fit best in the tech world. I haven't completely figured out what kind of engineer I want to become yet—and I'm okay with that. Right now, I'm focused on experimenting, building, learning, and discovering what interests me most.
+
+In the long term, I'd like to work on challenging technology with strong engineering teams, potentially at companies like **Google or NVIDIA**, while continuously pushing my technical skills further.
+
+I don't want my GitHub to just show a list of technologies I've learned. I want it to show a journey of **curiosity, experimentation, persistence, and continuous improvement**.
+
+**I don't just want to learn technology. I want to immerse myself in it, understand how it works, and eventually build things that make other people curious.**
+
 
 
 ## 🌐 Socials:
