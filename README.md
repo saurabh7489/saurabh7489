@@ -13,8 +13,6 @@ I've built projects including an **AI Disaster Response project for the Meta × 
 
 I'm currently exploring **open source and hackathons** to understand where I fit best in the tech world. I haven't completely figured out what kind of engineer I want to become yet—and I'm okay with that. Right now, I'm focused on experimenting, building, learning, and discovering what interests me most.
 
-In the long term, I'd like to work on challenging technology with strong engineering teams, potentially at companies like **Google or NVIDIA**, while continuously pushing my technical skills further.
-
 I don't want my GitHub to just show a list of technologies I've learned. I want it to show a journey of **curiosity, experimentation, persistence, and continuous improvement**.
 
 **I don't just want to learn technology. I want to immerse myself in it, understand how it works, and eventually build things that make other people curious.**
