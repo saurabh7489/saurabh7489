@@ -1,19 +1,24 @@
 # Hi, I’m Sourabh Pandey👋
 # About Me
 
- A student who is curious about how technology is built and what happens behind the scenes.
+ A student who is curious about **how technology is built and what happens behind the scenes**.
 
-What usually catches my attention is **seeing something that someone has built**. Instead of only using it, I start wondering: *How does this work? How did someone code this? How did they make it this polished? Could I build something similar myself?*
 
-That curiosity is what keeps me learning. I actually enjoy going deep into difficult or lengthy topics—even when they take time to understand. The feeling of finally understanding something that once seemed complicated is what keeps me going.
 
-I currently work with **HTML, CSS, JavaScript, Python, C++, and Java**, and I'm learning **React**. I enjoy building websites, while also spending time solving DSA problems and exploring different areas of technology.
+Whenever I see something someone has built, I start asking: *How does this work? How did they code it? How did they make it this polished? Could I build something similar?*
 
-I've built projects including an **AI Disaster Response project for the Meta × Hugging Face Hackathon**, a **Nokia-style Snake Game using JavaScript**, and several frontend projects such as a **login page**. Through these projects, I've learned more than just coding—I’ve learned about prototyping, planning a project, deployment platforms such as **Vercel and Hugging Face**, and figuring things out when I don't know the answer.
+That curiosity keeps me learning. I enjoy diving into difficult topics and the satisfaction of finally understanding something that once seemed complicated.
 
-I'm currently exploring **open source and hackathons** to understand where I fit best in the tech world. I haven't completely figured out what kind of engineer I want to become yet—and I'm okay with that. Right now, I'm focused on experimenting, building, learning, and discovering what interests me most.
+I work with **HTML, CSS, JavaScript, Python, C++, and Java**, and I'm currently learning **React**. I enjoy building websites, solving DSA problems, and exploring new areas of technology.
 
-I don't want my GitHub to just show a list of technologies I've learned. I want it to show a journey of **curiosity, experimentation, persistence, and continuous improvement**.
+I've built projects like an **AI Disaster Response system for the Meta × Hugging Face Hackathon**, a **Nokia-style Snake Game**, and various frontend projects. Through them, I've learned about **prototyping, deployment, and learning by building**.
+
+I'm exploring **open source and hackathons** while figuring out what kind of engineer I want to become.
+
+I don't want my GitHub to just show what I've learned. I want it to show my journey of **curiosity, experimentation, persistence, and continuous improvement**.
+
+
+
 
 **I don't just want to learn technology. I want to immerse myself in it, understand how it works, and eventually build things that make other people curious.**
 
