@@ -1,7 +1,7 @@
 # Hi, I’m Sourabh Pandey👋
 # About Me
 
-Hi, I'm **Saurabh Pandey**, a 5th-semester Computer Science Engineering student who is curious about how technology is built and what happens behind the scenes.
+ A student who is curious about how technology is built and what happens behind the scenes.
 
 What usually catches my attention is **seeing something that someone has built**. Instead of only using it, I start wondering: *How does this work? How did someone code this? How did they make it this polished? Could I build something similar myself?*
 
