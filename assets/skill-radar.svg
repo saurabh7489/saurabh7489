@@ -126,7 +126,7 @@ Skill Radar
             class="axis"/>
         
     <polygon
-        points="280.0,139.0 405.5,237.5 395.2,376.5 280.0,428.2 185.7,364.4 197.1,262.1"
+        points="280.0,139.0 410.8,234.5 395.2,376.5 280.0,426.5 187.1,363.7 198.2,262.8"
         class="radar"/>
     
         <circle
@@ -144,8 +144,8 @@ Skill Radar
         </text>
         
         <circle
-            cx="405.5"
-            cy="237.5"
+            cx="410.8"
+            cy="234.5"
             r="5"
             class="point"/>
 
@@ -173,7 +173,7 @@ Skill Radar
         
         <circle
             cx="280.0"
-            cy="428.2"
+            cy="426.5"
             r="5"
             class="point"/>
 
@@ -186,8 +186,8 @@ Skill Radar
         </text>
         
         <circle
-            cx="185.7"
-            cy="364.4"
+            cx="187.1"
+            cy="363.7"
             r="5"
             class="point"/>
 
@@ -200,8 +200,8 @@ Skill Radar
         </text>
         
         <circle
-            cx="197.1"
-            cy="262.1"
+            cx="198.2"
+            cy="262.8"
             r="5"
             class="point"/>
 
@@ -293,12 +293,12 @@ Language Mix
             class="axis"/>
         
     <polygon
-        points="820.0,270.6 851.4,291.9 847.6,326.0 820.0,338.1 802.5,320.1 808.0,303.1"
+        points="820.0,271.2 851.0,292.1 847.3,325.7 820.0,339.7 802.1,320.3 808.2,303.2"
         class="radar"/>
     
         <circle
             cx="820.0"
-            cy="270.6"
+            cy="271.2"
             r="5"
             class="point"/>
 
@@ -311,8 +311,8 @@ Language Mix
         </text>
         
         <circle
-            cx="851.4"
-            cy="291.9"
+            cx="851.0"
+            cy="292.1"
             r="5"
             class="point"/>
 
@@ -325,8 +325,8 @@ Language Mix
         </text>
         
         <circle
-            cx="847.6"
-            cy="326.0"
+            cx="847.3"
+            cy="325.7"
             r="5"
             class="point"/>
 
@@ -340,7 +340,7 @@ Language Mix
         
         <circle
             cx="820.0"
-            cy="338.1"
+            cy="339.7"
             r="5"
             class="point"/>
 
@@ -353,8 +353,8 @@ Language Mix
         </text>
         
         <circle
-            cx="802.5"
-            cy="320.1"
+            cx="802.1"
+            cy="320.3"
             r="5"
             class="point"/>
 
@@ -367,8 +367,8 @@ Language Mix
         </text>
         
         <circle
-            cx="808.0"
-            cy="303.1"
+            cx="808.2"
+            cy="303.2"
             r="5"
             class="point"/>
 
