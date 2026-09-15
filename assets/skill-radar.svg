@@ -126,7 +126,7 @@ Skill Radar
             class="axis"/>
         
     <polygon
-        points="280.0,139.0 410.8,234.5 395.2,376.5 280.0,426.5 187.1,363.7 198.2,262.8"
+        points="280.0,139.0 414.8,232.2 395.2,376.5 280.0,432.7 185.6,364.5 203.5,265.8"
         class="radar"/>
     
         <circle
@@ -144,8 +144,8 @@ Skill Radar
         </text>
         
         <circle
-            cx="410.8"
-            cy="234.5"
+            cx="414.8"
+            cy="232.2"
             r="5"
             class="point"/>
 
@@ -173,7 +173,7 @@ Skill Radar
         
         <circle
             cx="280.0"
-            cy="426.5"
+            cy="432.7"
             r="5"
             class="point"/>
 
@@ -182,12 +182,12 @@ Skill Radar
             y="535.0"
             text-anchor="middle"
             class="label">
-            Python
+            JavaScript
         </text>
         
         <circle
-            cx="187.1"
-            cy="363.7"
+            cx="185.6"
+            cy="364.5"
             r="5"
             class="point"/>
 
@@ -196,12 +196,12 @@ Skill Radar
             y="422.5"
             text-anchor="end"
             class="label">
-            JavaScript
+            Python
         </text>
         
         <circle
-            cx="198.2"
-            cy="262.8"
+            cx="203.5"
+            cy="265.8"
             r="5"
             class="point"/>
 
@@ -293,12 +293,12 @@ Language Mix
             class="axis"/>
         
     <polygon
-        points="820.0,271.2 851.0,292.1 847.3,325.7 820.0,339.7 802.1,320.3 808.2,303.2"
+        points="820.0,269.1 851.5,291.8 848.2,326.3 820.0,339.5 803.3,319.7 809.0,303.6"
         class="radar"/>
     
         <circle
             cx="820.0"
-            cy="271.2"
+            cy="269.1"
             r="5"
             class="point"/>
 
@@ -307,12 +307,12 @@ Language Mix
             y="85.0"
             text-anchor="middle"
             class="label">
-            Python
+            JavaScript
         </text>
         
         <circle
-            cx="851.0"
-            cy="292.1"
+            cx="851.5"
+            cy="291.8"
             r="5"
             class="point"/>
 
@@ -321,12 +321,12 @@ Language Mix
             y="197.5"
             text-anchor="start"
             class="label">
-            JavaScript
+            Python
         </text>
         
         <circle
-            cx="847.3"
-            cy="325.7"
+            cx="848.2"
+            cy="326.3"
             r="5"
             class="point"/>
 
@@ -335,12 +335,12 @@ Language Mix
             y="422.5"
             text-anchor="start"
             class="label">
-            Java
+            CSS
         </text>
         
         <circle
             cx="820.0"
-            cy="339.7"
+            cy="339.5"
             r="5"
             class="point"/>
 
@@ -349,12 +349,12 @@ Language Mix
             y="535.0"
             text-anchor="middle"
             class="label">
-            CSS
+            Java
         </text>
         
         <circle
-            cx="802.1"
-            cy="320.3"
+            cx="803.3"
+            cy="319.7"
             r="5"
             class="point"/>
 
@@ -367,8 +367,8 @@ Language Mix
         </text>
         
         <circle
-            cx="808.2"
-            cy="303.2"
+            cx="809.0"
+            cy="303.6"
             r="5"
             class="point"/>
 
