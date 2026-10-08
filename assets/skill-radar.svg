@@ -126,12 +126,12 @@ Skill Radar
             class="axis"/>
         
     <polygon
-        points="280.0,129.9 428.1,224.5 395.2,376.5 280.0,418.7 206.0,352.8 247.1,291.0"
+        points="280.0,130.5 428.1,224.5 395.2,376.5 280.0,420.2 206.0,352.8 247.1,291.0"
         class="radar"/>
     
         <circle
             cx="280.0"
-            cy="129.9"
+            cy="130.5"
             r="5"
             class="point"/>
 
@@ -173,7 +173,7 @@ Skill Radar
         
         <circle
             cx="280.0"
-            cy="418.7"
+            cy="420.2"
             r="5"
             class="point"/>
 
@@ -293,12 +293,12 @@ Language Mix
             class="axis"/>
         
     <polygon
-        points="820.0,243.3 872.0,280.0 837.0,319.8 820.0,326.7 811.3,315.0 812.9,305.9"
+        points="820.0,243.5 871.8,280.1 837.2,319.9 820.0,326.9 811.3,315.0 812.9,305.9"
         class="radar"/>
     
         <circle
             cx="820.0"
-            cy="243.3"
+            cy="243.5"
             r="5"
             class="point"/>
 
@@ -311,8 +311,8 @@ Language Mix
         </text>
         
         <circle
-            cx="872.0"
-            cy="280.0"
+            cx="871.8"
+            cy="280.1"
             r="5"
             class="point"/>
 
@@ -325,8 +325,8 @@ Language Mix
         </text>
         
         <circle
-            cx="837.0"
-            cy="319.8"
+            cx="837.2"
+            cy="319.9"
             r="5"
             class="point"/>
 
@@ -340,7 +340,7 @@ Language Mix
         
         <circle
             cx="820.0"
-            cy="326.7"
+            cy="326.9"
             r="5"
             class="point"/>
 
